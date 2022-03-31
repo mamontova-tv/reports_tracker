@@ -1,0 +1,3 @@
+author: user2
+equipment: machine1
+status: normal
